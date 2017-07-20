@@ -8,6 +8,6 @@ radiusFloat = float(radiusString)
 circumference= 2 * math.pi * radiusFloat
 area = math.pi * radiusFloat * radiusFloat
 
-print()      
+print()    # print a line break   
 print( "The cirumference of your circle is:",circumference,\
        ",\nand the area is:" , area )
