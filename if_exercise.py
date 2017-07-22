@@ -1,3 +1,5 @@
+#Please guess the output before run the code;)
+
 condition_A = True
 condition_B = True
 condition_C = True
