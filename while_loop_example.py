@@ -1,8 +1,9 @@
+#calculate the number of students in this classroom
 
-total = 0.0
-item  = float( input("Enter value: ") )
+total = 0
+item  = int( input("Enter value: ") )
 while item != -1:
     total += item
-    item  = float( input("Enter value: ") )
+    item  = int( input("Enter value: ") )
 print( "total=" , total )
 
